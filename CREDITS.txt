@@ -1,0 +1,3 @@
+Douglas Meehan     github.com/dmeehan
+
+This code is a clone of https://github.com/nathanborror/django-basic-apps/tree/master/basic/inlines
