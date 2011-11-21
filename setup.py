@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-import blog
+import inlines
 import os
 
 try:
