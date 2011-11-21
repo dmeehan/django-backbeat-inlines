@@ -14,7 +14,7 @@ except (IOError, OSError):
 
 setup(
     name='django-backbeat-inlines',
-    version=images.get_version(),
+    version=inlines.get_version(),
     description='A pluggable inlines app.',
     long_description=long_description,
     author='Douglas Meehan',
