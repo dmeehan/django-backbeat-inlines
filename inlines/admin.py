@@ -1,7 +1,7 @@
 # inlines/admin.py
 
 from django.contrib import admin
-from basic.inlines.models import *
+from inlines.models import *
 
 
 admin.site.register(InlineType)
